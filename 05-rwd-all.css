@@ -60,7 +60,7 @@ a{
    transition: 1s;
 }
 .x{
-    background-image: url('../02-imge/01海.jpg');
+    background-image: url('./02-imge/01海.jpg');
     background-position: center;
 }
 .x:hover{
@@ -69,7 +69,7 @@ a{
    
 }
 .y{
-    background-image:url('../02-imge/03\ 山.jpg 山.jpg');
+    background-image:url('./02-imge/03\ 山.jpg');
     margin: 0px 5px;
 }
 .y:hover{
@@ -78,7 +78,7 @@ a{
    
 }
 .z{
-    background-image:url('../02-imge/02月亮.webp');
+    background-image:url('./02-imge/02月亮.webp');
 }
 .z:hover{
     background-size:200%;
